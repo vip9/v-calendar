@@ -1,10 +1,10 @@
 {
-  "name": "@angelblanco/v-calendar",
+  "name": "v-calendar",
   "type": "module",
   "version": "3.1.3",
   "description": "A calendar and date picker plugin for Vue.js.",
   "author": "Ángel Blanco",
-  "repository": "https://github.com/angelblanco/v-calendar.git",
+  "repository": "https://github.com/vip9/v-calendar.git",
   "homepage": "https://vcalendar.io",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
